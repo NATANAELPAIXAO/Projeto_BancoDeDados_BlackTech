@@ -6,7 +6,7 @@ Repositório criado para anotações dos estudos de banco de dados (SQL)
 
 ## ✔ Descrição do Projeto.
 
-O projeto apresentadosneste repositório foi eleborado para uma empresa de vendas de streaming.
+O projeto apresentados neste repositório foi eleborado para uma empresa de vendas de streaming.
 
 ---
 
