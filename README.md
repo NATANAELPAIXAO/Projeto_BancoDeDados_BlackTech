@@ -22,10 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## ✔ MER MODELO ENTIDADE RELACIONAMENTO.
+## ✔ MER Modelo Entidade Relacionamento
 
 ![MER](https://user-images.githubusercontent.com/82888848/181864067-3e8ced36-ba58-4cbe-896c-b26d39870a6b.jpg)
-
 
 
 ---
