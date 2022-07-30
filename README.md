@@ -26,6 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![MER](https://user-images.githubusercontent.com/82888848/181864067-3e8ced36-ba58-4cbe-896c-b26d39870a6b.jpg)
 
+---
+
+## ✔ MER Engenharia Reversa
+
+![MER Engenharia Reversa](https://user-images.githubusercontent.com/82888848/181864253-7a4fdfbf-a34e-4e38-89f6-dae7683ba18e.png)
 
 ---
 
