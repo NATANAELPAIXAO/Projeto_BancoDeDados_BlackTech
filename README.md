@@ -22,9 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## ✔ Base de dados.
+## ✔ MER MODELO ENTIDADE RELACIONAMENTO.
 
-
+https://worker-images-3.ws.pho.to/i1/245647E0-0FA0-11ED-85A8-122F22428849.jpg
 
 
 ---
